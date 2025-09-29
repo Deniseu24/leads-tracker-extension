@@ -5,20 +5,20 @@ body {
     min-width: 400px;
 }
 
-#input-bar {
+input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #086788;
+    border: 1px solid #5f9341;
     margin-bottom: 4px;
 }
 
-#save-btn {
-    border: none;
-    background-color: #086788;
+button {
+    background: #5f9341;
     color: white;
-    font-weight: bold;
     padding: 10px 20px;
+    border: none;
+    font-weight: bold;
 }
 
 ul {
@@ -32,5 +32,5 @@ li {
 }
 
 a {
-    color: #086788;
+    color: #5f9341;
 }
